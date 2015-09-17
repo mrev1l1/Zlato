@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LifeSym\SimulationEngine.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LifeSym\ConfigLoader.cs" Line="6" Column="48" />
+      <File FileName="Assets\Scripts\LifeSym\SimulationEngine.cs" Line="14" Column="102" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
